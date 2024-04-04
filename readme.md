@@ -14,4 +14,3 @@ test the use of user.name and user.email of git:
 
 So must set a valid email before you commit a change. 
 
-
