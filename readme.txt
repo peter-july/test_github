@@ -7,3 +7,4 @@
 7. set a tmp user name
 8. set github name
 9. set github email
+10. set a error email
