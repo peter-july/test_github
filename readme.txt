@@ -6,3 +6,4 @@
 6. test 20240404
 7. set a tmp user name
 8. set github name
+9. set github email
