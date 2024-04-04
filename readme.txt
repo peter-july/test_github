@@ -4,3 +4,4 @@
 4. Research. 
 5. Write.
 6. test 20240404
+7. set a tmp user name
