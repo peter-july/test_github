@@ -14,4 +14,7 @@ test the use of user.name and user.email of git:
 
 So must set a valid email before you commit a change. 
 
+------------------------
+test branch:
+1. create a new branch.
 
