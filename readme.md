@@ -27,7 +27,9 @@ about branch usage1:
 9. delete lacal tmp_branch. 'git branch -d tmp_branch'
 
 about branch usage2:
-1. create a r_b1. 
-2. add sth. 
+1. create a new branch. 'git checkout -b dev' 
+2. make change at this branch.
+3. commit this changes. 'git commit -a m "add sth" '
+4. 
 
 
