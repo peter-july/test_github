@@ -28,4 +28,6 @@ about branch usage1:
 
 about branch usage2:
 1. create a r_b1. 
+2. add sth. 
+
 
