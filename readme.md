@@ -30,6 +30,9 @@ about branch usage2:
 1. create a new branch. 'git checkout -b dev' 
 2. make change at this branch.
 3. commit this changes. 'git commit -a m "add sth" '
-4. 
+4. merge dev's change to main. 'git checkout main; git merge dev'
+5. push this commit to origin. 'git push'
+6. delete the local dev branch. 'git branch -d dev'
+
 
 
