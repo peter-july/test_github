@@ -15,6 +15,17 @@ test the use of user.name and user.email of git:
 So must set a valid email before you commit a change. 
 
 ------------------------
-test branch:
-1. create a new branch.
+about branch usage1: 
+1. create a new branch. 'git checkout -b tmp_b'
+2. make some modification at this branch.
+3. push tmp_branch to origin tmp_branch. 'git push -u origin tmp_branch:tmp_branch'
+4. then we want to merge origin/tmp_branch to origin/main
+5. create a pull request at github.
+6. merge this pull request to main at github.
+7. delete origin/tmp_branch at github.
+8. at local, switch to master and git pull. 'git checkout master; git pull'
+9. delete lacal tmp_branch. 'git branch -d tmp_branch'
+
+about branch usage2:
+
 
