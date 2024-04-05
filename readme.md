@@ -27,5 +27,5 @@ about branch usage1:
 9. delete lacal tmp_branch. 'git branch -d tmp_branch'
 
 about branch usage2:
-
+1. create a r_b1. 
 
